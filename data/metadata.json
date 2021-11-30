@@ -1,0 +1,25 @@
+[
+  {
+    "descr": "AusCycling IdP",
+    "name_tag": "AusCycling",
+    "title": "AusCycling",
+    "domain": "auscycling.org.au",
+    "type": "idp",
+    "hidden": "false",
+    "auth": "google",
+    "entityID": "https://auscycling.org.au",
+    "scope": "auscycling.org.au",
+    "entity_icon": null
+  }, {
+    "descr": "Basketball IdP",
+    "name_tag": "Basketball",
+    "title": "Basketball",
+    "domain": "australia.basketball",
+    "type": "idp",
+    "hidden": "false",
+    "auth": "microsoft",
+    "entityID": "https://australia.basketball",
+    "scope": "australia.basketball",
+    "entity_icon": null
+  }
+]
